@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\DB;
 class InvoiceController extends Controller
 {
     public function store(Request $request){
-    	
+    	// dd($request->all());
     	$data=new Invoice;
         $data->customer_name= $request->customer;
     	$data->customer_mail= $request->email;
@@ -22,7 +22,7 @@ class InvoiceController extends Controller
         $data->address = $request->address;
         $data->item = $request->item;
     	$data->product_name = $request->name;
-    	$data->price = $request->sale_price;
+    	$data->price = $request->unit_price;
     	$data->quantity = $request->quantity;
         $data->total = $request->total;
         $data->payment = $request->payment;

@@ -41,7 +41,6 @@
                             @else
                                 <a href="#" class="btn btn-sm btn-info">Invoiced</a>
                             @endif
-                            
                         </td>
                     </tr>
                     @endforeach

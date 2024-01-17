@@ -15,7 +15,7 @@
                                 <div class="col-md-6">
                                     <div class="form-group">
                                         <label class="small mb-1" for="inputFirstName">Customer Name</label>
-                                        <select id="name" name="name" class="form-control">
+                                        <select id="name" name="customer" class="form-control">
                                             <option selected>Choose...</option>
                                             @foreach($customers as $c)
                                                 <option value="{{$c->id}}">{{ $c->name }}</option>

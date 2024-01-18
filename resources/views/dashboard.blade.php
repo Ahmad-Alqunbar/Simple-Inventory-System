@@ -38,7 +38,7 @@
             </div>
             <div class="col-xl-3 col-md-6">
                 <div class="card bg-danger text-white mb-4">
-                    <div class="card-body">Pending Orders</div>
+                    <div class="card-body"> Pending Orders </div>
                     <div class="card-footer d-flex align-items-center justify-content-between">
                         <a class="small text-white stretched-link" href="{{ route('pending.orders') }}">View Details</a>
                         <div class="small text-white"><i class="fas fa-angle-right"></i></div>
@@ -81,12 +81,12 @@
                                 <th>Office</th>
                                 <th>Age</th>
                                 <th>Start date</th>
-                                <th>Salary</th>
+                                <th>Salary </th>
                             </tr>
                         </thead>
                         <tfoot>
                             <tr>
-                                <th>Name</th>
+                                <th>Name </th>
                                 <th>Position</th>
                                 <th>Office</th>
                                 <th>Age</th>

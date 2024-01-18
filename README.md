@@ -1,5 +1,5 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-<h1 align="center">Inventory Management System</h1>
+<h1 align="center">Simple Inventory System</h1>
 <hr>
 
 
@@ -7,7 +7,7 @@
 
     git clone https://github.com/Ahmad-Alqunbar/Simple-Inventory-System.git
 
-    cd Inventory_Management_System
+    cd Simple-Inventory-System
     
 ### Composer
 

@@ -5,7 +5,7 @@
 
 ## Quick Installation
 
-    git clone https://github.com/ekramasif/Inventory_Management_System.git
+    git clone https://github.com/Ahmad-Alqunbar/Simple-Inventory-System.git
 
     cd Inventory_Management_System
     
@@ -32,3 +32,4 @@
 <p align="center">
   <img src="https://contributors-img.web.app/image?repo=ekramasif/Inventory_Management_System" />
 </p>
+# Simple-Inventory-System

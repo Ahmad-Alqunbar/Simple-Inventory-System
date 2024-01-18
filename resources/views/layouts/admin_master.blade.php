@@ -134,7 +134,7 @@ Products<!DOCTYPE html>
                 <footer class="py-4 bg-light mt-auto">
                     <div class="container-fluid">
                         <div class="d-flex align-items-center justify-content-between small">
-                            <div class="text-muted">Copyright &copy; Shakil Ahmed, Ekram Asif & Safana Quyum Chowdhury</div>
+                            <div class="text-muted">Copyright &copy; Ahmad Alqunbar</div>
                             <div>
                                 <a href="#">Privacy Policy</a>
                                 &middot;

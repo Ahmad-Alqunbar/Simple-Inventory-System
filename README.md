@@ -19,7 +19,7 @@
     cp .env.example .env
  
     
- ### For Migration table in database [Create database name as ```IMS```]
+ ### For Migration table in database [Create database name as ```invent```]
  
     php artisan migrate
     
@@ -27,9 +27,7 @@
 
     php artisan serve
 
-## Our valuable team👩‍💻👨‍💻 :
 
-<p align="center">
-  <img src="https://contributors-img.web.app/image?repo=ekramasif/Inventory_Management_System" />
-</p>
+
+
 # Simple-Inventory-System
